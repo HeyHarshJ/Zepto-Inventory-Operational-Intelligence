@@ -5,7 +5,7 @@ This project provides a deep-dive analysis into the inventory health and logisti
 
 The goal was to identify operational bottlenecks, such as high-value stock risk and logistics load distribution, to optimize quick-commerce delivery efficiency.
 
-![Dashboard Screenshot](Zepto_Inventory_Dashboard.pdf)
+![Dashboard Screenshot](Zepto-Dashboard.png)
 
 ---
 
