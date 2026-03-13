@@ -8,7 +8,7 @@ The goal was to identify operational bottlenecks, such as high-value stock risk 
 ---
 
 ## **📂 Dataset Details**
-* **Source:** Zepto Public Inventory Snapshot
+* **Source:** Zepto Inventory Dataset from Kaggle
 * **Size:** 3,200+ unique SKUs across 14 categories.
 * **Key Fields:** Category, MRP, Discounted Selling Price, Available Quantity, Weight (gms), and Stock Status.
 
