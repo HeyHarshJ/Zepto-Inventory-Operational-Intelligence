@@ -1,2 +1,4 @@
 # Zepto-Inventory-Operational-Intelligence
-End-to-end supply chain analytics project using SQL and Power BI to optimize inventory health, logistics weight distribution, and financial exposure for a quick-commerce (Zepto) dataset.
+A comprehensive data engineering and visualization project that transforms raw retail inventory data into actionable operational intelligence. Featuring automated SQL data cleaning, custom logistics categorization, and a high-density executive dashboard to monitor stock-outs, pricing strategies, and warehouse load.
+
+
