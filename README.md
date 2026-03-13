@@ -1,4 +1,4 @@
-# 🚀 Zepto Inventory & Operational Intelligence Dashboard
+# Zepto Inventory & Operational Intelligence Dashboard
 
 ## **Project Overview**
 This project provides a deep-dive analysis into the inventory health and logistics distribution of **Zepto**, India's leading 10-minute delivery service. Using a public snapshot of their product catalog (3.2K+ SKUs), I built an end-to-end data pipeline—from raw data cleaning in **SQL** to an executive **Power BI** dashboard.
